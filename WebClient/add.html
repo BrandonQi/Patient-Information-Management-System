@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Add Patient</title>
+  <link href="site.css" rel="stylesheet">
+</head>
+
+<body>
+
+<nav id="nav01"></nav>
+
+<div id="main">
+  <br>
+    Hospital name:<br>
+    <input type="text" id="hospitalName">
+    <br>
+    Patient name:<br>
+    <input type="text" id="patientName">
+    <br>
+    Patient ID:<br>
+    <input type="text" id="patientID">
+    <br><br>
+    <input type="submit" onclick="addPatient()">
+    <br>
+  <a href='list.html'><button>Back to home</button></a><br><br>
+  <div id="txtHint"><b>Patients list will be listed here...</b></div><br>
+  <input type="submit" name="DeleteButton" value="Delete" onclick="deletePatient()" />
+  <a href='add.html'><button>Add</button></a><br><br>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
