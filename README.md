@@ -7,7 +7,7 @@ HRSServer:
 	
 	Using multithreads to support multi-clients service;
 	
-	Support Socket communication with the clients.
+	Support Socket communication in JSON with the clients.
 
 HRSClient_android:
 
@@ -17,7 +17,7 @@ HRSClient_android:
 	
 	Using multithreads to keep listen to the server in background;
 	
-	Support Socket communication with the server;
+	Support Socket communication in JSON with the server;
 
 HRSClient_browser:
 	Webpage implmented with HTML, CSS and JavaScript;
@@ -26,6 +26,6 @@ HRSClient_browser:
 	
 	Using AJAX to update parts of a web page, without reloading the whole page;
 	
-	PHP interface support socket communication with the server.
+	PHP interface support socket communication in JSON with the server.
 	
 
