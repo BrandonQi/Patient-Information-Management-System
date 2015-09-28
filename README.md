@@ -20,6 +20,7 @@ HRSClient_android:
 	Support Socket communication in JSON with the server;
 
 HRSClient_browser:
+
 	Webpage implmented with HTML, CSS and JavaScript;
 	
 	Interface implemented with PHP;
