@@ -11,7 +11,7 @@ HRSServer:
 
 HRSClient_android:
 
-	Implemented with JAVA SDK;
+	Implemented with Android SDK;
 	
 	Based on Android Lollipod 5.0;
 	
